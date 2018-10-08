@@ -14,7 +14,7 @@ Enter in the key under WeatherAPiCore > Controllers > WeatherController.cs at "s
 npm start
 ```
 # OpenWeatherApi
-- https://home.openweathermap.org/
+- https://openweathermap.org/
 - Example: http://api.openweathermap.org/data/2.5/weather?zip=92612,us&appid=ENTER_API_KEY_HERE
 
 # Usage
