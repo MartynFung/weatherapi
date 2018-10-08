@@ -9,7 +9,7 @@ Contains no view. Please use the React App in the weatherweb repo https://github
 Enter in the key under WeatherAPiCore > Controllers > WeatherController.cs at "string apiKey = _____"
 - Clone the front-end React Client: https://github.com/MartynFung/weatherweb
 - Open weatherapi with Visual studio 2017 > run with IIS Express
-- Open weatherweb with VSCode > open console using CTRL+`
+- Open weatherweb with VSCode > open console using CTRL+` > npm start
 ```
 npm start
 ```
