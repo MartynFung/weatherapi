@@ -19,3 +19,11 @@ npm start
 
 # Usage
 - With the API and React Client running, enter in a valid US zipcode and click the "Get Weather" button
+
+
+# Features
+- Takes in a US Zipcode as input
+- Displays weather for the provided zipcode including: City, Country, Temp, Temp_max, Temp_min, Description
+- Caches forecast details in sessionStorage
+- Subsequent requests for cached zipcodes (within 30 minutes of last API call) will be pulled from the cache to display weather.
+- There is an indicator stating whether the current weather was pulled from the cache or not.
