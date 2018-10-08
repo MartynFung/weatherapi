@@ -1,0 +1,11 @@
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\bin\Debug\netcoreapp2.0\WeatherApiCore.deps.json
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\bin\Debug\netcoreapp2.0\WeatherApiCore.runtimeconfig.json
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\bin\Debug\netcoreapp2.0\WeatherApiCore.runtimeconfig.dev.json
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\bin\Debug\netcoreapp2.0\WeatherApiCore.dll
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\bin\Debug\netcoreapp2.0\WeatherApiCore.pdb
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.csproj.CoreCompileInputs.cache
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.AssemblyInfoInputs.cache
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.AssemblyInfo.cs
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.dll
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.pdb
+C:\Users\martyn\Dropbox\CODING\Projects\WeatherApp\WeatherApiCore\WeatherApiCore\obj\Debug\netcoreapp2.0\WeatherApiCore.csprojAssemblyReference.cache
